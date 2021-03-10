@@ -1,3 +1,6 @@
+CREATED AND AUTHORED BY OSCAR ALVAREZ
+MARCH 2021
+
 BEFORE USING:
 - Use Python 3.
 - Have the following python packages installed (can be installed using pip):
